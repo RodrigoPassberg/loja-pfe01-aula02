@@ -2,9 +2,87 @@
     {
         "id":1,
         "produto":"Boné",
-        "descricao":"Boné Verde",
-        "preco":30.0,
-        "imagem":"https://static.prospin.com.br/media/catalog/product/m/b/mbv23bon090-bone-new-era-940-new-york-yankees-aba-curva-verde.jpg"
+        "descricao":"EDIÇÃO LIMITADA Boné Gustavo Lima",
+        "preco":25.0,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7qukw-lhg74u93n59z39"
     },
-    {}
+    {
+        "id":2,
+        "produto":"Camisa",
+        "descricao":"Camisa Leonardo",
+        "preco":45.0,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0k7w0q487sx10"
+    },
+    {
+        "id":3,
+        "produto":"Camisa",
+        "descricao":"Camisa Faustão",
+        "preco":45.0,
+        "imagem":"https://http2.mlstatic.com/D_NQ_NP_783811-MLB78563240820_082024-O.webp"
+
+    },
+    {
+        "id":4,
+        "produto":"Camisa",
+        "descricao":"Camisa Bolsonaro",
+        "preco":45.0,
+        "imagem":"https://down-br.img.susercontent.com/file/sg-11134201-7rdw0-lz97aepmul1jfc"
+    },
+    {
+        "id":5,
+        "produto":"Camisa",
+        "descricao":"Camisa Neymar",
+        "preco":69.99,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5cuuurbd96a97"
+    },
+    {
+        "id":6,
+        "produto":"Camisa",
+        "descricao":"Camisa Ronaldo",
+        "preco":69.99,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-ly2pkz9aulbq19"
+    },
+    {
+        "id":7,
+        "produto":"Camisa",
+        "descricao":"Camisa Cristiano Ronaldo",
+        "preco":69.99,
+        "imagem":"https://down-br.img.susercontent.com/file/sg-11134201-7rdx1-m0szsx1bbruxfb"
+    },
+    {
+        "id":8,
+        "produto":"Camisa",
+        "descricao":"Camisa Eduardo Costa",
+        "preco":45.0,
+        "imagem":"https://down-br.img.susercontent.com/file/sg-11134201-7rbn9-m5nmth5ys8s49c_tn"
+    },
+    {
+        "id":9,
+        "produto":"Camisa",
+        "descricao":"Camisa Amado Batista",
+        "preco":45.0,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-m28gvb0aoatye2"
+    },
+    {
+        "id":10,
+        "produto":"Camisa",
+        "descricao":"Camisa Roberto Carlos",
+        "preco":45.0,
+        "imagem":"https://images.mont.ink/produto_imagens/214056/phpnNVZWd.png"
+    },
+    {
+        "id":11,
+        "produto":"Camisa",
+        "descricao":"Camisa Chitãozinho e Xororo",
+        "preco":45.0,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0xa5p5mzd4wbf"
+    },
+    {
+        "id":12,
+        "produto":"Camisa",
+        "descricao":"Camisa Belo",
+        "preco":45.0,
+        "imagem":"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lttlyiuyhyyg03"
+    }
+
 ]
